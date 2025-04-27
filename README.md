@@ -25,21 +25,13 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paulriya9073&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+### 📈 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulriya9073&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile-views" /> </p>
 
 ---
 
-### 📬 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-paul-145135300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/riya_paul/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-</p>
+### 📬 Connect with me
+<p align="center"> <a href="https://www.linkedin.com/in/riya-paul-145135300/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> &nbsp; <a href="https://leetcode.com/u/riya_paul/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
 
 ---
 
