@@ -26,25 +26,25 @@
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=paulriya9073&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views">
+  <img src="https://komarev.com/ghpvc/?username=paulriya9073&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 📬 Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/riya-paul-145135300/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/riya_paul/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LeetCode-Solve-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /></a>
@@ -71,7 +71,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulriya9073&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulriya9073&show_icons=true&locale=en&layout=compact&theme=radical&card_width=800" alt="Top Languages" />
 </p>
 
 <p align="center">
