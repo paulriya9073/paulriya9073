@@ -5,6 +5,9 @@
 <h1 align="center">Hello 👋, I'm Riya Paul</h1>
 <h3 align="center">A passionate Full-stack Web Developer from Kolkata, India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="full">
+
+
 <!-- About Me and GIF side by side -->
 <table>
   <tr>
