@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-</p>
+
 
 <h1 align="center">Hello 👋, I'm Riya Paul</h1>
 <h3 align="center">A passionate Full-stack Web Developer from Kolkata, India</h3>
@@ -13,7 +11,7 @@
   <tr>
     <td width="50%" valign="top">
       
-### 👩‍💻 About Me
+### 💫 About Me
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **MERN Stack (MongoDB, Express, React, Node)**
 - 📫 How to reach me: **paulriya9073@gmail.com**
